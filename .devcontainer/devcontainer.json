@@ -1,0 +1,6 @@
+{
+    "name": "typescript-dojo",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
